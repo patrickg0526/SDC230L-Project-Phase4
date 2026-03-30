@@ -31,12 +31,12 @@ public class CalculatorApp {
         DivisionCalculator calculator = new DivisionCalculator(display);
 
         // ----------------------------------------------------------
-        // STEP 1: Print the title line (screenshot here)
+        // STEP 1: Print the title line
         // ----------------------------------------------------------
         display.printTitle();
 
         // ----------------------------------------------------------
-        // STEP 2: Print the welcome/instructions message (screenshot here)
+        // STEP 2: Print the welcome/instructions message
         // ----------------------------------------------------------
         display.printWelcome();
 
@@ -69,7 +69,7 @@ public class CalculatorApp {
         }
 
         // ----------------------------------------------------------
-        // STEP 4: Print closing message (screenshot here)
+        // STEP 4: Print closing message
         // ----------------------------------------------------------
         display.printClosing();
 
